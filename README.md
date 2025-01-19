@@ -13,7 +13,7 @@ https://quaint-ailey-paja-1dcf4297.koyeb.app/    ... zde je link
 
 ## Struktura projektu
 ```
-project/
+Flask API Demo/
 ├── api_demo.py          # Hlavní soubor s Flask aplikací <br>
 ├── requirements.txt     # Seznam závislostí <br>
 ├── Procfile             # Konfigurace pro Gunicorn a Koyeb <br>
