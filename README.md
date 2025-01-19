@@ -53,8 +53,5 @@ Flask API Demo/
 - Flask
 - Gunicorn (pro produkční nasazení)
 
----
 
-Doufám, že tato demonstrace ukáže, jak snadné je vytvořit a nasadit Flask aplikaci. 🚀
-```
 
