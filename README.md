@@ -18,7 +18,7 @@ Flask API Demo/
 ├── requirements.txt     # Seznam závislostí <br>
 ├── Procfile             # Konfigurace pro Gunicorn a Koyeb <br>
 ├── templates/  <br>
-│   └── index.html       # Ukázková šablona <br>
+    └── index.html       # Ukázková šablona <br>
 ```
 
 ## Jak spustit aplikaci lokálně
