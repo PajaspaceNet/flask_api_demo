@@ -7,6 +7,6 @@ def home():
     return render_template("index.html")  # Načte šablonu z `templates/index.html`
 
 if __name__ == "__main__":
-#    app.run(host="0.0.0.0", port=8000)
-                  app.run()
+    port = int(os.environ.get("PORT", 5000))  # Default port for local dev
+    app.run(host="0.0.0.0", port=port)
 
